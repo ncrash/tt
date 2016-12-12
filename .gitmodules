@@ -1,0 +1,3 @@
+[submodule "ext/cbmax"]
+	path = ext/cbmax
+	url = https://github.com/ncrash/cbmax.git
